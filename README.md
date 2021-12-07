@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ollyness
+- 👋 Hi, I’m Oliver Louis
 - 👀 I’m interested in Drupal, Data Analysis, e-Commerce. 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Forecasting models
