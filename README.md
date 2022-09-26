@@ -2,7 +2,7 @@
 - 👀 I’m interested in Drupal, Data Analysis, e-Commerce. 
 - 🌱 I’m currently deep learning Data Science
 - 💞️ I’m looking to collaborate on Forecasting models
-- 📫 How to reach me oliver@myndsets.com
+- 📫 How to reach me oliver.r@valeubound.com
 
 <!---
 ollyness/ollyness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
